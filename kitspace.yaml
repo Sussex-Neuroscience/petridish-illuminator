@@ -1,0 +1,4 @@
+summary: "A petri dish ilumminator"
+site: https://github.com/Sussex-Neuroscience/petridish-illuminator
+bom: PCB/1-click-bom.tsv
+gerbers: PCB/gerbers

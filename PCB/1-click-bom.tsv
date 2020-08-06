@@ -1,0 +1,12 @@
+References	Qty	Description
+D1, D4, D3, D6, D9, D7, D2, D5, D8	9	LED Light emitting diode D5.0mm
+J1	1	USB C Receptacle USB2.0 2.0-only Type-C connector GCT USB4085
+J2	1	Screw Terminal 01x02 +5V GND Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/) TerminalBlock Altech AK300-2 P5.00mm
+J3	1	Conn 01x02 Male from microcontroller Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/) PinHeader 1x02 P2.54mm Vertical
+J4	1	Barrel Jack +5V DC BarrelJack Horizontal
+JP1	1	Jumper 3 Bridged12 control jumper Jumper, 3-pole, pins 1+2 closed/bridged PinHeader 1x03 P2.54mm Vertical
+Q1	1	BD433 4A Ic, 22V Vce, Power NPN Transistor, TO-126 TO-126-3 Vertical
+R3, R1, R2	3	R Small 14 ohm 2W Resistor, small symbol Axial DIN0309 L9.0mm D3.2mm P5.08mm Vertical
+R4	1	R Small 270 Resistor, small symbol Axial DIN0309 L9.0mm D3.2mm P5.08mm Vertical
+RV1	1	R POT 20 ohm 6W Potentiometer Bourns 3339W Horizontal
+SW1	1	SW SPST on/off Single Pole Throw (SPST) switch PinHeader 1x02 P2.54mm Vertical
