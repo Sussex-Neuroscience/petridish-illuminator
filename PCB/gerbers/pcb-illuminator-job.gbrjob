@@ -7,14 +7,14 @@
       "Application": "Pcbnew",
       "Version":     "5.1.6-c6e7f7d~87~ubuntu20.04.1"
     },
-    "CreationDate":  "2020-08-06T11:27:34+01:00"
+    "CreationDate":  "2020-09-17T17:53:29+01:00"
   },
   "GeneralSpecs":
   {
     "ProjectId":
     {
-      "Name": "led_matrix",
-      "GUID": "6c65645f-6d61-4747-9269-782e6b696361",
+      "Name": "pcb-illuminator",
+      "GUID": "7063622d-696c-46c7-956d-696e61746f72",
       "Revision": "rev?"
     },
     "Size":
@@ -40,67 +40,67 @@
   "FilesAttributes":
   [
     {
-      "Path":  "led_matrix-F_Cu.gbr",
+      "Path":  "pcb-illuminator-F_Cu.gbr",
       "FileFunction":  "Copper,L1,Top",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "led_matrix-B_Cu.gbr",
+      "Path":  "pcb-illuminator-B_Cu.gbr",
       "FileFunction":  "Copper,L2,Bot",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "led_matrix-F_Adhes.gbr",
+      "Path":  "pcb-illuminator-F_Adhes.gbr",
       "FileFunction":  "Glue,Top",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "led_matrix-B_Adhes.gbr",
+      "Path":  "pcb-illuminator-B_Adhes.gbr",
       "FileFunction":  "Glue,Bot",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "led_matrix-F_Paste.gbr",
+      "Path":  "pcb-illuminator-F_Paste.gbr",
       "FileFunction":  "SolderPaste,Top",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "led_matrix-B_Paste.gbr",
+      "Path":  "pcb-illuminator-B_Paste.gbr",
       "FileFunction":  "SolderPaste,Bot",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "led_matrix-F_SilkS.gbr",
+      "Path":  "pcb-illuminator-F_SilkS.gbr",
       "FileFunction":  "Legend,Top",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "led_matrix-B_SilkS.gbr",
+      "Path":  "pcb-illuminator-B_SilkS.gbr",
       "FileFunction":  "Legend,Bot",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "led_matrix-F_Mask.gbr",
+      "Path":  "pcb-illuminator-F_Mask.gbr",
       "FileFunction":  "SolderMask,Top",
       "FilePolarity":  "Negative"
     },
     {
-      "Path":  "led_matrix-B_Mask.gbr",
+      "Path":  "pcb-illuminator-B_Mask.gbr",
       "FileFunction":  "SolderMask,Bot",
       "FilePolarity":  "Negative"
     },
     {
-      "Path":  "led_matrix-Edge_Cuts.gbr",
+      "Path":  "pcb-illuminator-Edge_Cuts.gbr",
       "FileFunction":  "Profile",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "led_matrix-F_Fab.gbr",
+      "Path":  "pcb-illuminator-F_Fab.gbr",
       "FileFunction":  "AssemblyDrawing,Top",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "led_matrix-B_Fab.gbr",
+      "Path":  "pcb-illuminator-B_Fab.gbr",
       "FileFunction":  "AssemblyDrawing,Bot",
       "FilePolarity":  "Positive"
     }
